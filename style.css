@@ -1,3 +1,19 @@
-body{
-    background-color: aqua;
+.txt-center{
+    text-align: center;
+}
+.bg-red{
+    background: red;
+}
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+} 
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
 }
